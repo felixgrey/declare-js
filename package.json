@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/felixgrey/declare-js.git"
   },
-  "author": "",
+  "author": "felixgrey",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/felixgrey/declare-js/issues"
